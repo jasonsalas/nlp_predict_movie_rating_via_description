@@ -1,0 +1,1 @@
+Hi! The Rotten Tomatoes Movie Database goes in this directory. Download it at https://www.kaggle.com/ayushkalla1/rotten-tomatoes-movie-database/, extract the CSV, then delete this file.
